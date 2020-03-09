@@ -38,6 +38,7 @@ function templateCompile(str) {
 }
 
 module.exports = {
+  info: { name: 'template' },
   templateCompile,
   compile: (str, context) => templateCompile(str)(context),
 };
