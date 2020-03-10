@@ -1,5 +1,9 @@
 # @caijs/template
 
+[![Build Status](https://travis-ci.com/CAI-js/template.svg?branch=master)](https://travis-ci.com/CAI-js/template)
+[![NPM version](https://img.shields.io/npm/v/@caijs/template.svg?style=flat)](https://www.npmjs.com/package/@caijs/template)
+[![NPM downloads](https://img.shields.io/npm/dm/@caijs/template.svg?style=flat)](https://www.npmjs.com/package/@caijs/template)
+
 @caijs/template allow to use variables or code between double brackets, and be evaluated with a context to generate a new string
 
 ## Installation
