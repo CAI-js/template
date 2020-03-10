@@ -1,6 +1,7 @@
 # @caijs/template
 
 [![Build Status](https://travis-ci.com/CAI-js/template.svg?branch=master)](https://travis-ci.com/CAI-js/template)
+[![Coverage Status](https://coveralls.io/repos/github/CAI-js/template/badge.svg?branch=master)](https://coveralls.io/github/CAI-js/template?branch=master)
 [![NPM version](https://img.shields.io/npm/v/@caijs/template.svg?style=flat)](https://www.npmjs.com/package/@caijs/template)
 [![NPM downloads](https://img.shields.io/npm/dm/@caijs/template.svg?style=flat)](https://www.npmjs.com/package/@caijs/template)
 
