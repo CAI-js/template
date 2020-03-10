@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@caijs/eval": "^1.0.1"
+    "@caijs/eval": "^1.0.3"
   },
   "devDependencies": {
     "coveralls": "^3.0.9",
